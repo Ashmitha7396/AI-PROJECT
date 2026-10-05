@@ -1,0 +1,24 @@
+CROP: RICE
+
+Rice is a cereal crop that is commonly cultivated in regions with suitable water availability and appropriate temperature conditions.
+
+SOIL:
+Rice can be cultivated in different soil types. Soils with good water-holding capacity are commonly suitable for rice cultivation.
+
+WATER:
+Rice generally requires adequate water during its growth. Water management should depend on the crop growth stage, soil condition, rainfall, and local farming practices.
+
+TEMPERATURE:
+Rice grows best under warm conditions. Temperature requirements can vary depending on the rice variety and growth stage.
+
+NUTRIENTS:
+Rice requires essential plant nutrients for healthy growth. Important nutrients include nitrogen, phosphorus, and potassium. Nutrient management should be based on soil conditions and appropriate agricultural recommendations.
+
+COMMON AGRICULTURAL CONCERNS:
+Rice cultivation can be affected by weeds, insects, diseases, water-management problems, and nutrient deficiencies.
+
+FARM MANAGEMENT:
+Farmers should consider soil condition, rainfall, irrigation availability, crop variety, nutrient requirements, pest and disease conditions, and local agricultural recommendations when managing rice.
+
+IMPORTANT NOTE:
+Agricultural recommendations can vary by crop variety, location, soil condition, weather, and farming practices. The AI assistant should provide information from verified sources and should not invent pesticide doses, product prices, or supplier information.
